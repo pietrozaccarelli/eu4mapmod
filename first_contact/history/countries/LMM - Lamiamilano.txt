@@ -1,0 +1,23 @@
+government = monarchy
+add_government_reform = feudalsim_reform
+primary_culture = lombard
+religion = confucianism
+add_harmonized_religion = catholic
+technology_group = high_american
+capital = 2	# Milan
+government_rank = 3
+elector=yes
+
+#Masonoio
+
+1444.1.1 = {
+	monarch = {
+		name = "Pietro"
+		dynasty = "Masonoio"
+		adm = 6
+		dip = 6
+		mil = 6
+	}
+}
+
+

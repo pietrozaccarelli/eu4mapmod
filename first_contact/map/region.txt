@@ -1,0 +1,36 @@
+# A province can only belong to one region!
+
+# random_new_world_region is used for RNW. Must be first in this list.
+random_new_world_region = {
+}
+
+########################################
+# EUROPE                               #
+########################################
+
+
+italy_region = {
+	areas = {
+		
+		tuscany_area
+		liguria_area
+		corsica_sardinia_area
+		sicily_area
+		naples_area
+		calabria_area
+		apulia_area
+		emilia_romagna_area
+		central_italy_area
+		lazio_area
+		
+		western_sicily_area
+	}
+}
+mediterrenean_region = {
+	areas = {
+		eastern_mediterrenean_area
+		western_mediterrenean_area
+	}
+}
+
+
